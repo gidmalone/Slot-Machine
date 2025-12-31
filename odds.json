@@ -1,0 +1,37 @@
+{
+    "A": {
+      "emoji": "🍒",
+      "weight": 28,
+      "payouts": { "two_of_a_kind": 8, "three_of_a_kind": 44 }
+    },
+    "B": {
+      "emoji": "🍋",
+      "weight": 22,
+      "payouts": { "two_of_a_kind": 8, "three_of_a_kind": 61 }
+    },
+    "C": {
+      "emoji": "🔔",
+      "weight": 18,
+      "payouts": { "two_of_a_kind": 12, "three_of_a_kind": 93 }
+    },
+    "D": {
+      "emoji": "💎",
+      "weight": 12,
+      "payouts": { "two_of_a_kind": 24, "three_of_a_kind": 255 }
+    },
+    "E": {
+      "emoji": "7️⃣",
+      "weight": 10,
+      "payouts": { "two_of_a_kind": 40, "three_of_a_kind": 490 }
+    },
+    "F": {
+      "emoji": "⭐",
+      "weight": 6,
+      "payouts": { "two_of_a_kind": 60, "three_of_a_kind": 980 }
+    },
+    "G": {
+      "emoji": "👑",
+      "weight": 4,
+      "payouts": { "two_of_a_kind": 90, "three_of_a_kind": 1850 }
+    }
+  }
